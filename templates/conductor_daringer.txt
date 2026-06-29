@@ -1,0 +1,224 @@
+SESSION: Conductor Williams × Daringer
+DATE: [Add date]
+TEMPO: 78 BPM
+KEY: C Minor
+VIBE: Dark Cinematic — Slow-burn, tape-saturated. DAYTONA meets Choir Boy.
+
+═══════════════════════════════════════════════════════════════════
+CHORD PROGRESSION (4-bar loop)
+═══════════════════════════════════════════════════════════════════
+
+Cm9 — Abmaj7 — Fm9 — G7sus4
+
+COPY THIS LINE FOR GITHUB AUTOMATION:
+Cm, Ab, Fm, G, Cm, Ab, Bb, G
+
+═══════════════════════════════════════════════════════════════════
+DRUM PATTERN (16-step grid) — 54% swing, 1/16 quantization
+═══════════════════════════════════════════════════════════════════
+
+Kick:   X . . . . . . . X . . . . . . .
+Snare:  . . . . . . X . . . . . . . X .
+Hat:    . X . . . X . . . X . . . X . .
+Rim:    . . . . . . . . . . . . X . . .
+
+VELOCITIES:
+Kick: 118, 112
+Snare: 122, 118
+Hat: 35 (alternating)
+Rim: 55
+
+═══════════════════════════════════════════════════════════════════
+LAYER STACK
+═══════════════════════════════════════════════════════════════════
+
+Layer 1 — Soul Choir Stab (Conductor Williams anchor)
+  Patch: Mellotron Choir or Sampler (gospel vocal)
+  Role: Chord anchor, beat 1 release beat 3
+  Processing: LPF 4kHz, LFO wobble ±8¢, rate 0.3Hz
+
+Layer 2 — Rhodes / Electric Piano
+  Patch: Classic Electric Piano
+  Role: Counter-melody between choir stabs
+  Processing: Tape saturation +2-3dB, 3-5 notes/bar, pan L30
+
+Layer 3 — Cello/String Pad
+  Patch: Cinematic Strings
+  Role: Sustained root/fifth through each chord
+  Processing: Attack 800ms, release 2s, below 800Hz, no vibrato
+
+Layer 4 — Sub Bass
+  Patch: Sub Bass / Hip Hop Bass
+  Role: Root-note sub, one note per chord
+  Processing: HPF > 80Hz, pure foundation
+
+═══════════════════════════════════════════════════════════════════
+ARRANGEMENT (88 bars)
+═══════════════════════════════════════════════════════════════════
+
+INTRO (Bars 1-8)
+  Bar 1-2: Vinyl crackle only
+  Bar 3: Strings fade in
+  Bar 5: Kick and snare enter
+  Bar 7: Choir stab enters
+  Bar 8: Rhodes enters on last beat — arrival moment
+
+VERSE 1 — "The Weight" (Bars 9-24) — Energy: 40%
+  Full drum pattern, minimal fills
+  Choir stab on beats 1 and 3 of every other bar
+  Rhodes 4-note descending motif: G → Eb → D → C
+  Bass locked to root — no movement
+  Chord: Cm → Ab → Bb → Cm (loop x4)
+
+HOOK 1 (Bars 25-32) — Energy: 70%
+  Brass section opens up
+  Strings swell underneath
+  Bass starts moving — root to fifth walk on bar 28
+  Choir rises to -14dB — gospel warmth
+  Tambourine enters on 8th notes
+
+VERSE 2 — "The Revelation" (Bars 33-48) — Energy: 50%
+  Second choir layer an octave higher, -6dB
+  Rhodes gets more active — syncopated comping
+  Drop kick bars 29-32, bring back HARD on bar 33
+  Chord: Cm → Fm → Ab → Gm
+
+HOOK 2 (Bars 49-56) — Energy: 75%
+  Full arrangement returns, brass +2dB
+  Counter-melody on strings in bar 53
+  Choir hits hard on beat 1 bar 56 — peak gospel moment
+
+BRIDGE (Bars 57-64) — Energy: 30% → 90%
+  Strip back — bass and crackle only bars 57-58
+  Single Rhodes note per bar 59-60
+  Strings re-enter with new voicing — Ab Major 7
+  Brass builds with rising 4-note figure
+  Everything drops on beat 4 — silence before Verse 3
+
+VERSE 3 — "The Coronation" (Bars 65-80) — Energy: 90%
+  Hardest hitting section — kick doubled with 808
+  Brass hits on beats 1 AND 3 every bar
+  Rhodes runs fills in last 2 beats of every 4th bar
+  Choir at -10dB — fully present
+  Chord: Cm → Ab → Fm → G7 (G7 is the knife)
+
+OUTRO (Bars 81-88) — Energy: 20%
+  Bar 81-82: Full band
+  Bar 83: Brass fades out
+  Bar 84: Drums drop — Rhodes and strings only
+  Bar 86: Strings fade to choir only
+  Bar 88: Single brass note on beat 1, long decay
+
+═══════════════════════════════════════════════════════════════════
+GARAGEBAND PATCHES
+═══════════════════════════════════════════════════════════════════
+
+Role          Patch Name
+────────────────────────────────────────────────────
+Brass         Orchestral Brass / Studio Horns
+Strings       Cinematic Strings / Studio Strings
+Rhodes        Classic Electric Piano
+Piano         Grand Piano (dark)
+Bass          Sub Bass / Hip Hop Bass
+Choir         Aah Choir / Mellotron Choir
+Drums         Hip Hop Kit (kick) + Studio Live Kit (snare)
+Texture       Vintage Vinyl (crackle)
+Percussion    Tambourine
+
+═══════════════════════════════════════════════════════════════════
+VOCAL CHAIN (iPhone optimized)
+═══════════════════════════════════════════════════════════════════
+
+Gate:        Threshold -45dB, Attack 2ms, Release 200ms
+Comp 1:      3:1, Attack 10ms, Release 80ms, -24dB threshold
+Comp 2:      2:1, Attack 30ms, Release 120ms, -18dB threshold
+EQ Cuts:     200-300Hz -3dB, 500Hz -2dB
+EQ Boosts:   3kHz +2dB, 10kHz +1.5dB
+De-esser:    7.5kHz, -18dB threshold
+Room Reverb: Pre-delay 22ms, Decay 1.4s, Wet 18%
+Plate Reverb: Pre-delay 8ms, Decay 0.8s, Wet 12% (doubles only)
+Delay:       1/8 note, Feedback 20%, Wet 10%
+Doubles:     Pan L30/R30, -6dB
+
+═══════════════════════════════════════════════════════════════════
+GAIN STAGING TARGETS
+═══════════════════════════════════════════════════════════════════
+
+Kick:        -12 dBFS
+Snare:       -15 dBFS
+Hi-Hats:     -22 dBFS
+Bass:        -14 dBFS
+Brass:       -16 dBFS
+Strings:     -20 dBFS
+Rhodes:      -18 dBFS
+Choir:       -20 dBFS
+Lead Vocal:  -16 dBFS
+Master Bus:  -6 dBFS (pre-master)
+
+═══════════════════════════════════════════════════════════════════
+MIX CHECKLIST
+═══════════════════════════════════════════════════════════════════
+
+LOW END:
+  □ Sidechain kick ducking bass 3dB
+  □ HPF brass 120Hz, strings 200Hz
+  □ Sub-bass mono below 80Hz
+
+MIDRANGE:
+  □ Notch brass 400Hz -2dB
+  □ Cut Rhodes 250Hz -3dB
+  □ Boost vocal presence 3kHz +2dB
+  □ Duck choir -3dB when lead vocal present
+
+HIGH END:
+  □ Air shelf brass 12kHz +1.5dB
+  □ De-ess vocal 7-8kHz
+  □ High-cut vinyl crackle 8kHz
+
+COMPRESSION:
+  □ Drum bus: 4:1, attack 6ms, release 40ms, 3-4dB GR
+  □ Parallel drums: 35% blend, 10:1 squash
+  □ Brass bus: 3:1, attack 25ms, 2dB GR
+  □ Vocal bus: 2:1 glue, 1-2dB GR
+
+STEREO FIELD:
+  □ Kick, snare, bass: mono
+  □ Brass: center + room reverb widening
+  □ Strings: wide (L80/R80)
+  □ Choir: L40/R40
+  □ Rhodes: L30
+  □ Vocal: center, doubles L30/R30
+
+AUTOMATION:
+  □ Choir rides +3dB during hooks
+  □ Brass volume +2dB on hooks
+  □ Reverb wet increases in bridge
+  □ Vinyl crackle fades out by bar 10, rides back at outro
+
+═══════════════════════════════════════════════════════════════════
+MASTERING PROTOCOL
+═══════════════════════════════════════════════════════════════════
+
+EQ:          Low shelf +0.8dB at 60Hz
+             High shelf +1.2dB at 14kHz
+Multiband:   Low (below 120Hz): 3:1, -2dB GR
+             Mid (1-5kHz): 2:1, -1.5dB GR
+Tape Sat:    Drive 12%, even harmonics, output compensated
+Stereo:      Narrow below 150Hz, width boost 2-8kHz (+10%)
+Limiter:     Ceiling -1.0dBTP, Release 60ms
+Target LUFS: -9 integrated
+Export:      24-bit WAV, 44.1kHz, Stereo
+
+═══════════════════════════════════════════════════════════════════
+REFERENCE TRACKS
+═══════════════════════════════════════════════════════════════════
+
+Westside Gunn — "Mr. T" (Conductor Williams)
+Conway — "The Cow" (Daringer)
+Benny — "Took the Money..." (Daringer)
+
+═══════════════════════════════════════════════════════════════════
+CHORD PROGRESSION LINE — COPY FOR GITHUB AUTOMATION
+═══════════════════════════════════════════════════════════════════
+
+Cm, Ab, Fm, G, Cm, Ab, Bb, G
